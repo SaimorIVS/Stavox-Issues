@@ -3,6 +3,3 @@ contact_links:
   - name: ❓ Spørgsmål & Support
     url: https://stavox.dk/forums/forum/946-sp%C3%B8rgsm%C3%A5l-support/
     about: Spørg andre medlemmer om hjælp med dine problemer på vores forum
-  - name: 🔐 Sikkerhedsfejl
-    url: https://github.com/SaimorIVS/Stavox-Issues/blob/master/SECURITY.md
-    about: Rapporter sikkerhedsfejl i henhold til vores sikkerhedspolitik
