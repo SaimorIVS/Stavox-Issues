@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Spørgsmål & Support
+  - name: ❓ Spørgsmål & Support
     url: https://stavox.dk/forums/forum/946-sp%C3%B8rgsm%C3%A5l-support/
     about: Spørg andre medlemmer om hjælp med dine problemer på vores forum
-  - name: Sikkerhedsfejl
-    url: ./SECURITY.md
+  - name: 🔐 Sikkerhedsfejl
+    url: https://github.com/SaimorIVS/Stavox-Issues/blob/master/SECURITY.md
     about: Rapporter dine sikkerhedsfejl i henhold til vores sikkerhedspolitik
