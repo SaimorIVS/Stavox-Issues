@@ -1,3 +1,5 @@
+![Stavox Logo](https://stavox.dk/imageproxy/128/https://i.imgur.com/6mOTeps.png)
+
 # Stavox Issues
 Offentlig issue tracker for alt Stavox relateret.
 Her kan du rapportere fejl og mangler, som du mener skal rettes op på.
