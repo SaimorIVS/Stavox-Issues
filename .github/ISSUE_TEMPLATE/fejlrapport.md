@@ -8,31 +8,15 @@ assignees: ''
 ---
 
 **Beskriv problemet**
-En klar og tydelig forklaring af hvad problemet er.
+Skriv en klar og tydelig forklaring af hvad problemet er.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**For at reproducere fejlen**
+Skridt for at støde ind i fejlen:
+1. Gå til '...'
+2. Klik på '....'
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Hvis muligt, tilføj her screenshots af problemet. Hvis ikke, kan du bare slette denne sektion.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Andet**
+Skriv eventuelt andre relevante oplysninger her.
