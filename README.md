@@ -6,9 +6,9 @@ Her kan du rapportere fejl og mangler, som du mener skal rettes op på.
 
 Dette gælder både for Garry's Mod serverene, Discord botten, Saimor Identity osv.
 
-Hvis du vil rapportere et sikkerhedsproblem, er det vigtigt at du først læser vores [sikkerhedspolitik](./SECURITY.md).
+Hvis du vil rapportere et sikkerhedsproblem, er det vigtigt at du først læser vores [sikkerhedspolitik](https://github.com/SaimorIVS/Stavox-Issues/security/policy).
 
-[Tryk her for at rapportere en fejl](https://github.com/SaimorIVS/Stavox-Issues/issues)
+[Tryk her for at rapportere en fejl](https://github.com/SaimorIVS/Stavox-Issues/issues/new/choose)
 
 # Links
 
