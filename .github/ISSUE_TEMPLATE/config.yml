@@ -5,4 +5,4 @@ contact_links:
     about: Spørg andre medlemmer om hjælp med dine problemer på vores forum
   - name: 🔐 Sikkerhedsfejl
     url: https://github.com/SaimorIVS/Stavox-Issues/blob/master/SECURITY.md
-    about: Rapporter dine sikkerhedsfejl i henhold til vores sikkerhedspolitik
+    about: Rapporter sikkerhedsfejl i henhold til vores sikkerhedspolitik
