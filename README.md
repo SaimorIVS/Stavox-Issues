@@ -1,2 +1,3 @@
-# sxgmod-issues
-Public issue tracker for Stavox.dk@Gmod
+# Stavox Issues
+Offentlig issue tracker for alt Stavox relateret.
+[Tryk her for at rapportere en fejl](https://github.com/SaimorIVS/Stavox-Issues/issues)
